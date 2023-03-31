@@ -1,0 +1,264 @@
+@font-face {     font-family: letra1;     src: url(elfont.ttf); }
+
+body{
+    font-family: letra1;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 55px;
+    background-color: #ffffff;
+
+    width: 1440px;
+    height: 1024px;
+    color: #000000;
+}
+
+.titu{
+
+    position: absolute;
+    width: 195px;
+    height: 55px;
+    left: 672px;
+    top: 70px;
+
+    font-family: letra1;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 55px;
+
+    color: #000000;
+
+}
+
+h1{
+position: absolute;
+width: 195px;
+height: 55px;
+left: 672px;
+top: 96px;
+
+font-family: letra1;
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 55px;
+
+color: #000000;
+}
+
+.Usu{
+position: absolute;
+width: 111px;
+height: 37px;
+left: 672px;
+top: 218px;
+font-family: letra1;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 37px;
+
+color: #000000;
+}
+
+
+.Corre{
+position: absolute;
+width: 300px;
+height: 37px;
+left: 672px;
+top: 341px;
+
+font-family: letra1;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 37px;
+
+color: #000000;
+}
+
+.Contra{
+
+position: absolute;
+width: 166px;
+height: 37px;
+left: 672px;
+top: 470px;
+
+font-family: letra1;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 37px;
+
+
+color: #000000;
+}
+
+.Contra2{
+
+position: absolute;
+width: 316px;
+height: 37px;
+left: 672px;
+top: 592px;
+
+font-family: letra1;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 37px;
+
+color: #000000;
+}
+
+p{
+position: absolute;
+width: 316px;
+height: 37px;
+left: 789px;
+top: 820px;
+
+font-family: letra1;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 37px;
+text-decoration-line: underline;
+
+color: #0094FF;
+}
+#inputusuario{
+
+
+position: absolute;
+width: 500px;
+height: 50px;
+left: 672px;
+top: 273px;
+
+background: #FFFFFF;
+border: 4px solid #000000;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+}
+
+#inputcorreo{
+
+position: absolute;
+width: 500px;
+height: 50px;
+left: 672px;
+top: 396px;
+
+background: #FFFFFF;
+border: 4px solid #000000;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+}
+
+#inputcontra{
+
+position: absolute;
+width: 500px;
+height: 50px;
+left: 672px;
+top: 525px;
+
+background: #FFFFFF;
+border: 4px solid #000000;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+}
+
+#inputcontra1{
+
+
+position: absolute;
+width: 500px;
+height: 50px;
+left: 672px;
+top: 647px;
+
+background: #FFFFFF;
+border: 4px solid #000000;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+}
+
+#boton1{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 358px;
+height: 77px;
+left: 747px;
+top: 739px;
+
+background: #D9D9D9;
+border: 5px solid #000000;
+border-radius: 100px;
+
+font-family: letra1;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+}
+
+#boton2{
+
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 358px;
+    height: 77px;
+    left: 747px;
+    top: 630px;
+    
+    background: #D9D9D9;
+    border: 5px solid #000000;
+    border-radius: 100px;
+    
+    font-family: letra1;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+}
+
+.link{
+    position: absolute;
+    width: 316px;
+    height: 37px;
+    left: 789px;
+    top: 700px;
+    
+    font-family: letra1;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 37px;
+    text-decoration-line: underline;
+    
+    color: #0094FF;
+    }
